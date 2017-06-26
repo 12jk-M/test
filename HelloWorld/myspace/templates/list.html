@@ -1,0 +1,30 @@
+{% load staticfiles %}
+<html>
+
+<head>
+
+</head>
+<body>
+
+
+  <div class="container">
+
+    {% for contact in contacts %}
+        {# Each "contact" is a Contact model object. #}
+       第{{ contact.id|upper }}条<br />
+         <p>{{ contact.dwmc|upper }}</p>
+         {{ contact.dz|upper }}<br />
+
+    <a href="/delete/{{contact.id }}" onclick="return confirm('你确认要删除吗?')">删除</a><br />
+
+    <a href="/edit/{{contact.id }}" >修改</a><br />
+    {% endfor %}
+
+    <a href="/contact/"> 增加 </a>
+
+  </div>
+
+
+
+</body>
+</html>
