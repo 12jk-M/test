@@ -1,2 +1,8 @@
 .gitigore
 /HelloWorld/db.sqlite3
+
+.gitigore
+/webseriver/config/mongoconfig.py
+.gitigore
+/webseriver/config/postgreconfig.py
+*.pyc
