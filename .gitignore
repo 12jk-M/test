@@ -1,10 +1,8 @@
 .gitigore
 /HelloWorld/db.sqlite3
 
-.gitigore
-/*/mongoconfig.py
-.gitigore
-/*/postgreconfig.py
+webseriver/config/mongoconfig.py
+webseriver/config/postgreconfig.py
 .gitigore
 /option1.2_test/option/config/mongoconfig.py
 .gitigore
