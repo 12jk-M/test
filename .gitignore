@@ -6,7 +6,7 @@
 .gitigore
 /webseriver/config/postgreconfig.py
 .gitigore
-/option1.2_test/option/config/mongoconfig.py
+/option/config/mongoconfig.py
 .gitigore
-/option1.2_test/option/config/postgreconfig.py
+/option/config/postgreconfig.py
 *.pyc
