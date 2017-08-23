@@ -2,9 +2,9 @@
 /HelloWorld/db.sqlite3
 
 .gitigore
-/webseriver/config/mongoconfig.py
+/*/mongoconfig.py
 .gitigore
-/webseriver/config/postgreconfig.py
+/*/postgreconfig.py
 .gitigore
 /option1.2_test/option/config/mongoconfig.py
 .gitigore
