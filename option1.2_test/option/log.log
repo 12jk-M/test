@@ -1,0 +1,426 @@
+[info]:compute 2017-08-23 00:30:42 CollaOptions getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '1_268', 'cap_currency': 'USD', 'gal': 395105.30158671923, 'date': '2017-08-22', 'cap_amount': 4756000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 participateforwards getDataFromMongo {'com_code': 'A000', 'exrate': 7.8348, 'der_id': '6_266', 'cap_currency': 'EUR', 'gal': -0.0, 'date': '2017-08-22', 'cap_amount': 2000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 CollaOptions getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '1_269', 'cap_currency': 'USD', 'gal': 1001764.6674661097, 'date': '2017-08-22', 'cap_amount': 11117500.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 participateforwards getDataFromMongo {'com_code': 'A000', 'exrate': 7.8348, 'der_id': '6_267', 'cap_currency': 'EUR', 'gal': 0.0, 'date': '2017-08-22', 'cap_amount': 4000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2911', 'cap_currency': 'EUR', 'gal': -96604.016107125834, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_302', 'cap_currency': 'USD', 'gal': 411818.77919292828, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3413', 'cap_currency': 'USD', 'gal': 290742.5391755607, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:42 participateforwards getDataFromMongo {'com_code': 'A000', 'exrate': 7.8348, 'der_id': '6_268', 'cap_currency': 'EUR', 'gal': -0.0, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:42'}
+
+[info]:compute 2017-08-23 00:30:43 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_303', 'cap_currency': 'USD', 'gal': 466875.04697355028, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1747', 'cap_currency': 'USD', 'gal': -61847.220934781944, 'date': '2017-08-22', 'cap_amount': 2879079.8300000001, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 forwards getDataFromMongo {'com_code': '6000', 'exrate': 6.66, 'der_id': '0_2549', 'cap_currency': 'USD', 'gal': -326600.81837294158, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 participateforwards getDataFromMongo {'com_code': 'A000', 'exrate': 7.8348, 'der_id': '6_269', 'cap_currency': 'EUR', 'gal': 0.0, 'date': '2017-08-22', 'cap_amount': 2000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_291', 'cap_currency': 'USD', 'gal': 277289.88651151938, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3414', 'cap_currency': 'USD', 'gal': 349841.32706847967, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_301', 'cap_currency': 'USD', 'gal': 396912.63366321934, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3393', 'cap_currency': 'USD', 'gal': 149216.6177709272, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_300', 'cap_currency': 'USD', 'gal': 379253.74066057889, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:43 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2543', 'cap_currency': 'USD', 'gal': 531957.65393908764, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:43'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '1_266', 'cap_currency': 'USD', 'gal': 345966.53298744478, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '0_3230', 'cap_currency': 'USD', 'gal': -94732.345967093745, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_297', 'cap_currency': 'USD', 'gal': 366630.18248575344, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 forwards getDataFromMongo {'com_code': '4100', 'exrate': 6.66, 'der_id': '0_2944', 'cap_currency': 'USD', 'gal': -114805.22759214103, 'date': '2017-08-22', 'cap_amount': 6000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1754', 'cap_currency': 'USD', 'gal': -41815.967199368424, 'date': '2017-08-22', 'cap_amount': 2483000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_299', 'cap_currency': 'USD', 'gal': 367544.35225738736, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3407', 'cap_currency': 'USD', 'gal': 293269.37876921007, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_293', 'cap_currency': 'USD', 'gal': 292669.03830046236, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_3457', 'cap_currency': 'EUR', 'gal': -47450.418945383419, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_296', 'cap_currency': 'USD', 'gal': 353250.49939586234, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '0_3231', 'cap_currency': 'USD', 'gal': -52413.942378696498, 'date': '2017-08-22', 'cap_amount': 2500000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:44 CollaOptions getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '1_265', 'cap_currency': 'USD', 'gal': 354507.11822149291, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:44'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_3458', 'cap_currency': 'EUR', 'gal': -45647.15892506497, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 CollaOptions getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '1_298', 'cap_currency': 'USD', 'gal': 359236.03935790702, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '0_3232', 'cap_currency': 'USD', 'gal': -51853.079112568616, 'date': '2017-08-22', 'cap_amount': 2500000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 CollaOptions getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '1_267', 'cap_currency': 'USD', 'gal': 771241.54058101645, 'date': '2017-08-22', 'cap_amount': 9467620.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1755', 'cap_currency': 'USD', 'gal': -123271.00625659239, 'date': '2017-08-22', 'cap_amount': 7381000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '0_3233', 'cap_currency': 'USD', 'gal': -116056.76247966984, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2776', 'cap_currency': 'USD', 'gal': -196266.6643787057, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3442', 'cap_currency': 'EUR', 'gal': -39394.533181620471, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2907', 'cap_currency': 'EUR', 'gal': -82444.419740540121, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:45 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2778', 'cap_currency': 'USD', 'gal': -142251.84790800221, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:45'}
+
+[info]:compute 2017-08-23 00:30:46 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 6.66, 'der_id': '0_3236', 'cap_currency': 'USD', 'gal': -205023.69455679983, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1756', 'cap_currency': 'USD', 'gal': -291456.97042755585, 'date': '2017-08-22', 'cap_amount': 15510386.33, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 5.2661, 'der_id': '0_3242', 'cap_currency': 'AUD', 'gal': -5640.9520492145593, 'date': '2017-08-22', 'cap_amount': 137000.0, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 forwards getDataFromMongo {'com_code': '6000', 'exrate': 6.66, 'der_id': '0_2547', 'cap_currency': 'USD', 'gal': -455312.70912006462, 'date': '2017-08-22', 'cap_amount': 10000000.0, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2779', 'cap_currency': 'USD', 'gal': -107067.64290962582, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2780', 'cap_currency': 'USD', 'gal': -116478.67508063832, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:46 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1757', 'cap_currency': 'USD', 'gal': -12487.529198193512, 'date': '2017-08-22', 'cap_amount': 663903.75, 'data_date': '2017-08-23 00:30:46'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 0.9992, 'der_id': '0_2530', 'cap_currency': 'CNH', 'gal': 1499792.7822730301, 'date': '2017-08-22', 'cap_amount': 17890850.5, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2533', 'cap_currency': 'USD', 'gal': 271554.19887941814, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2934', 'cap_currency': 'EUR', 'gal': -73202.606966475665, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2935', 'cap_currency': 'EUR', 'gal': -68468.441682349119, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2937', 'cap_currency': 'EUR', 'gal': -39866.842286823536, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1740', 'cap_currency': 'USD', 'gal': -562479.76323994028, 'date': '2017-08-22', 'cap_amount': 10689926.960000001, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_3459', 'cap_currency': 'EUR', 'gal': -47505.240130069215, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 5.2661, 'der_id': '0_3254', 'cap_currency': 'AUD', 'gal': -10268.843327298526, 'date': '2017-08-22', 'cap_amount': 300000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:47 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2933', 'cap_currency': 'EUR', 'gal': -98197.407744180688, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:47'}
+
+[info]:compute 2017-08-23 00:30:48 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3438', 'cap_currency': 'EUR', 'gal': -41554.47083009062, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:48'}
+
+[info]:compute 2017-08-23 00:30:48 forwards getDataFromMongo {'com_code': '3400', 'exrate': 6.66, 'der_id': '0_3465', 'cap_currency': 'USD', 'gal': -106274.84052678417, 'date': '2017-08-22', 'cap_amount': 2510000.0, 'data_date': '2017-08-23 00:30:48'}
+
+[info]:compute 2017-08-23 00:30:48 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1743', 'cap_currency': 'USD', 'gal': -75933.163971113274, 'date': '2017-08-22', 'cap_amount': 4494978.2800000003, 'data_date': '2017-08-23 00:30:48'}
+
+[info]:compute 2017-08-23 00:30:48 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2538', 'cap_currency': 'USD', 'gal': 131519.6120760591, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:48'}
+
+[info]:compute 2017-08-23 00:30:48 forwards getDataFromMongo {'com_code': '6000', 'exrate': 6.66, 'der_id': '0_2548', 'cap_currency': 'USD', 'gal': -329369.90117387584, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:48'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2908', 'cap_currency': 'EUR', 'gal': -74380.795307177454, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2535', 'cap_currency': 'USD', 'gal': 226948.30740553842, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2786', 'cap_currency': 'USD', 'gal': -72521.487641803207, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1746', 'cap_currency': 'USD', 'gal': -25132.413118008968, 'date': '2017-08-22', 'cap_amount': 1221420.4299999999, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3419', 'cap_currency': 'EUR', 'gal': -84297.04910162474, 'date': '2017-08-22', 'cap_amount': 900000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3405', 'cap_currency': 'USD', 'gal': 291158.75750303071, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2918', 'cap_currency': 'EUR', 'gal': -51691.055701389239, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:49 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2909', 'cap_currency': 'EUR', 'gal': -72346.863511283751, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:49'}
+
+[info]:compute 2017-08-23 00:30:50 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2919', 'cap_currency': 'EUR', 'gal': -53123.00246462354, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:50 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1748', 'cap_currency': 'USD', 'gal': -15404.412893789078, 'date': '2017-08-22', 'cap_amount': 707368.98999999999, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:50 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2540', 'cap_currency': 'USD', 'gal': 129615.76372603369, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:50 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3386', 'cap_currency': 'USD', 'gal': 148433.69665575508, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:50 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2913', 'cap_currency': 'EUR', 'gal': -72485.247450500945, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:50 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1752', 'cap_currency': 'USD', 'gal': -12801.065418566184, 'date': '2017-08-22', 'cap_amount': 784186.73999999999, 'data_date': '2017-08-23 00:30:50'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3397', 'cap_currency': 'USD', 'gal': 172030.84628598942, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2785', 'cap_currency': 'USD', 'gal': -77467.617250226962, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3406', 'cap_currency': 'USD', 'gal': 275041.36593732948, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2906', 'cap_currency': 'EUR', 'gal': -91781.24803180185, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1753', 'cap_currency': 'USD', 'gal': -17202.072926110755, 'date': '2017-08-22', 'cap_amount': 846311.73999999999, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3409', 'cap_currency': 'USD', 'gal': 268499.31500207563, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2536', 'cap_currency': 'USD', 'gal': 173568.12756397433, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'A000', 'exrate': 5.2661, 'der_id': '0_3255', 'cap_currency': 'AUD', 'gal': -19831.079772223547, 'date': '2017-08-22', 'cap_amount': 560000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:51 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2905', 'cap_currency': 'EUR', 'gal': -96874.063463399187, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:51'}
+
+[info]:compute 2017-08-23 00:30:52 forwards getDataFromMongo {'com_code': '2000', 'exrate': 6.66, 'der_id': '0_2787', 'cap_currency': 'USD', 'gal': -142806.86110805889, 'date': '2017-08-22', 'cap_amount': 10000000.0, 'data_date': '2017-08-23 00:30:52'}
+
+[info]:compute 2017-08-23 00:30:52 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1760', 'cap_currency': 'USD', 'gal': -66326.978820707431, 'date': '2017-08-22', 'cap_amount': 3690125.75, 'data_date': '2017-08-23 00:30:52'}
+
+[info]:compute 2017-08-23 00:30:52 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2537', 'cap_currency': 'USD', 'gal': 180783.61973864055, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:52'}
+
+[info]:compute 2017-08-23 00:30:52 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2914', 'cap_currency': 'EUR', 'gal': -81910.089542636648, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:52'}
+
+[info]:compute 2017-08-23 00:30:52 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3394', 'cap_currency': 'USD', 'gal': 173726.22513204897, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:52'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3427', 'cap_currency': 'EUR', 'gal': -43141.86692008836, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1733', 'cap_currency': 'USD', 'gal': -376937.19181389135, 'date': '2017-08-22', 'cap_amount': 7084837.4000000004, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3415', 'cap_currency': 'USD', 'gal': 406913.49230121408, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2910', 'cap_currency': 'EUR', 'gal': -46072.539864732644, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3396', 'cap_currency': 'USD', 'gal': 171714.97313501855, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1735', 'cap_currency': 'USD', 'gal': -180716.63207431848, 'date': '2017-08-22', 'cap_amount': 3989926.1899999999, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2912', 'cap_currency': 'EUR', 'gal': -90087.717206914822, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:53 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2532', 'cap_currency': 'USD', 'gal': 349941.22891849122, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:53'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2534', 'cap_currency': 'USD', 'gal': 313468.14493223617, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2917', 'cap_currency': 'EUR', 'gal': -52479.240840577542, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2542', 'cap_currency': 'USD', 'gal': 776821.93103042094, 'date': '2017-08-22', 'cap_amount': 10000000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1736', 'cap_currency': 'USD', 'gal': -116865.11857836679, 'date': '2017-08-22', 'cap_amount': 2567175.8700000001, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3436', 'cap_currency': 'EUR', 'gal': -41659.548945377261, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3439', 'cap_currency': 'EUR', 'gal': -41426.92473232677, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:54 forwards getDataFromMongo {'com_code': '6000', 'exrate': 6.66, 'der_id': '0_2551', 'cap_currency': 'USD', 'gal': -392102.49053556361, 'date': '2017-08-22', 'cap_amount': 8000000.0, 'data_date': '2017-08-23 00:30:54'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3445', 'cap_currency': 'EUR', 'gal': -336882.58396189084, 'date': '2017-08-22', 'cap_amount': 4000000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1737', 'cap_currency': 'USD', 'gal': -122264.47869354252, 'date': '2017-08-22', 'cap_amount': 2823208.1200000001, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2546', 'cap_currency': 'USD', 'gal': 623491.88072325883, 'date': '2017-08-22', 'cap_amount': 8000000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3443', 'cap_currency': 'EUR', 'gal': -39517.878011936518, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2539', 'cap_currency': 'USD', 'gal': 265985.89162772504, 'date': '2017-08-22', 'cap_amount': 10000000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3444', 'cap_currency': 'EUR', 'gal': -39472.382943875979, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1738', 'cap_currency': 'USD', 'gal': -108795.44215589372, 'date': '2017-08-22', 'cap_amount': 2428016.0899999999, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': '6000', 'exrate': 6.66, 'der_id': '0_2550', 'cap_currency': 'USD', 'gal': -323312.03141971788, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:55 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3437', 'cap_currency': 'EUR', 'gal': -207715.53643242002, 'date': '2017-08-22', 'cap_amount': 2500000.0, 'data_date': '2017-08-23 00:30:55'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2544', 'cap_currency': 'USD', 'gal': 534287.10123579041, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_2545', 'cap_currency': 'USD', 'gal': 534531.30258649064, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 7.8348, 'der_id': '0_2940', 'cap_currency': 'EUR', 'gal': -38505.257951408916, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 swaoption getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '2_1739', 'cap_currency': 'USD', 'gal': -541351.41811999155, 'date': '2017-08-22', 'cap_amount': 10689926.960000001, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': 'I000', 'exrate': 5.2661, 'der_id': '0_2941', 'cap_currency': 'AUD', 'gal': -16915.924155251778, 'date': '2017-08-22', 'cap_amount': 1500000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': '4100', 'exrate': 6.66, 'der_id': '0_2942', 'cap_currency': 'USD', 'gal': -67980.377199004215, 'date': '2017-08-22', 'cap_amount': 2000000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:56 forwards getDataFromMongo {'com_code': '4100', 'exrate': 6.66, 'der_id': '0_2943', 'cap_currency': 'USD', 'gal': -241889.8375109921, 'date': '2017-08-22', 'cap_amount': 7000000.0, 'data_date': '2017-08-23 00:30:56'}
+
+[info]:compute 2017-08-23 00:30:57 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 6.66, 'der_id': '0_3416', 'cap_currency': 'USD', 'gal': 399242.23504561046, 'date': '2017-08-22', 'cap_amount': 5000000.0, 'data_date': '2017-08-23 00:30:57'}
+
+[info]:compute 2017-08-23 00:30:57 forwards getDataFromMongo {'com_code': 'Z000', 'exrate': 7.8348, 'der_id': '0_3426', 'cap_currency': 'EUR', 'gal': -43084.160544481623, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:30:57'}
+
+[info]:compute 2017-08-23 00:44:54 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9464, 'der_id': '5_256', 'cap_currency': 'EUR', 'gal': 93132.449874635247, 'date': '2017-07-31', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:44:54'}
+
+[info]:compute 2017-08-23 00:44:56 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9464, 'der_id': '5_210', 'cap_currency': 'EUR', 'gal': 25491.892943374129, 'date': '2017-07-31', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:44:56'}
+
+[info]:compute 2017-08-23 00:44:59 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9328, 'der_id': '5_255', 'cap_currency': 'EUR', 'gal': 127762.60111463397, 'date': '2017-08-01', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:44:59'}
+
+[info]:compute 2017-08-23 00:45:01 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9328, 'der_id': '5_209', 'cap_currency': 'EUR', 'gal': 34813.045044946535, 'date': '2017-08-01', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:01'}
+
+[info]:compute 2017-08-23 00:45:07 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9625, 'der_id': '5_254', 'cap_currency': 'EUR', 'gal': 182969.5557759254, 'date': '2017-08-02', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:07'}
+
+[info]:compute 2017-08-23 00:45:08 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9625, 'der_id': '5_208', 'cap_currency': 'EUR', 'gal': 55551.366462547492, 'date': '2017-08-02', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:08'}
+
+[info]:compute 2017-08-23 00:45:13 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9788, 'der_id': '5_253', 'cap_currency': 'EUR', 'gal': 224896.01191374179, 'date': '2017-08-03', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:13'}
+
+[info]:compute 2017-08-23 00:45:14 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9788, 'der_id': '5_207', 'cap_currency': 'EUR', 'gal': 62257.155488193675, 'date': '2017-08-03', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:14'}
+
+[info]:compute 2017-08-23 00:45:21 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_252', 'cap_currency': 'EUR', 'gal': 254458.39544064095, 'date': '2017-08-04', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:21'}
+
+[info]:compute 2017-08-23 00:45:23 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_206', 'cap_currency': 'EUR', 'gal': 71945.991464095656, 'date': '2017-08-04', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:23'}
+
+[info]:compute 2017-08-23 00:45:27 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_251', 'cap_currency': 'EUR', 'gal': 295148.95897488005, 'date': '2017-08-05', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:27'}
+
+[info]:compute 2017-08-23 00:45:29 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_205', 'cap_currency': 'EUR', 'gal': 83801.654760149278, 'date': '2017-08-05', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:29'}
+
+[info]:compute 2017-08-23 00:45:35 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_250', 'cap_currency': 'EUR', 'gal': 337390.52703629766, 'date': '2017-08-06', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:35'}
+
+[info]:compute 2017-08-23 00:45:38 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9186, 'der_id': '5_204', 'cap_currency': 'EUR', 'gal': 96839.068588515933, 'date': '2017-08-06', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:38'}
+
+[info]:compute 2017-08-23 00:45:43 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9298, 'der_id': '5_249', 'cap_currency': 'EUR', 'gal': 337355.67208886449, 'date': '2017-08-07', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:43'}
+
+[info]:compute 2017-08-23 00:45:44 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9298, 'der_id': '5_273', 'cap_currency': 'EUR', 'gal': 1239.6091394226132, 'date': '2017-08-07', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:44'}
+
+[info]:compute 2017-08-23 00:45:46 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.9298, 'der_id': '5_203', 'cap_currency': 'EUR', 'gal': 86953.031744011067, 'date': '2017-08-07', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:46'}
+
+[info]:compute 2017-08-23 00:45:53 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8796, 'der_id': '5_248', 'cap_currency': 'EUR', 'gal': 373743.88788903784, 'date': '2017-08-08', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:45:53'}
+
+[info]:compute 2017-08-23 00:45:55 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8796, 'der_id': '5_272', 'cap_currency': 'EUR', 'gal': 3216.2612296325533, 'date': '2017-08-08', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:55'}
+
+[info]:compute 2017-08-23 00:45:57 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8796, 'der_id': '5_202', 'cap_currency': 'EUR', 'gal': 100657.32048751347, 'date': '2017-08-08', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:45:57'}
+
+[info]:compute 2017-08-23 00:46:03 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_247', 'cap_currency': 'EUR', 'gal': 390708.78313345136, 'date': '2017-08-09', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:46:03'}
+
+[info]:compute 2017-08-23 00:46:06 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_271', 'cap_currency': 'EUR', 'gal': -4914.1299656772007, 'date': '2017-08-09', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:06'}
+
+[info]:compute 2017-08-23 00:46:08 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_201', 'cap_currency': 'EUR', 'gal': 90983.937462455549, 'date': '2017-08-09', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:08'}
+
+[info]:compute 2017-08-23 00:46:15 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8223, 'der_id': '5_246', 'cap_currency': 'EUR', 'gal': 437390.43201809312, 'date': '2017-08-10', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:46:15'}
+
+[info]:compute 2017-08-23 00:46:18 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8223, 'der_id': '5_270', 'cap_currency': 'EUR', 'gal': -3028.5911560621003, 'date': '2017-08-10', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:18'}
+
+[info]:compute 2017-08-23 00:46:21 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8223, 'der_id': '5_200', 'cap_currency': 'EUR', 'gal': 103476.83968818487, 'date': '2017-08-10', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:21'}
+
+[info]:compute 2017-08-23 00:46:28 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_245', 'cap_currency': 'EUR', 'gal': 537735.76646301569, 'date': '2017-08-11', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:46:28'}
+
+[info]:compute 2017-08-23 00:46:29 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_269', 'cap_currency': 'EUR', 'gal': 11730.610701146141, 'date': '2017-08-11', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:29'}
+
+[info]:compute 2017-08-23 00:46:32 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_199', 'cap_currency': 'EUR', 'gal': 140209.19308633491, 'date': '2017-08-11', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:32'}
+
+[info]:compute 2017-08-23 00:46:39 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_244', 'cap_currency': 'EUR', 'gal': 603047.64360720734, 'date': '2017-08-12', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:46:39'}
+
+[info]:compute 2017-08-23 00:46:41 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_268', 'cap_currency': 'EUR', 'gal': 13728.114143453913, 'date': '2017-08-12', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:41'}
+
+[info]:compute 2017-08-23 00:46:43 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_198', 'cap_currency': 'EUR', 'gal': 158251.80574966827, 'date': '2017-08-12', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:43'}
+
+[info]:compute 2017-08-23 00:46:51 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_243', 'cap_currency': 'EUR', 'gal': 683386.7533344836, 'date': '2017-08-13', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:46:51'}
+
+[info]:compute 2017-08-23 00:46:53 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_267', 'cap_currency': 'EUR', 'gal': 15773.500689163995, 'date': '2017-08-13', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:53'}
+
+[info]:compute 2017-08-23 00:46:55 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_221', 'cap_currency': 'EUR', 'gal': 82408.169069142692, 'date': '2017-08-13', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:55'}
+
+[info]:compute 2017-08-23 00:46:58 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_232', 'cap_currency': 'EUR', 'gal': 86669.96143154196, 'date': '2017-08-13', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:46:58'}
+
+[info]:compute 2017-08-23 00:47:00 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8709, 'der_id': '5_197', 'cap_currency': 'EUR', 'gal': 176083.42003342893, 'date': '2017-08-13', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:00'}
+
+[info]:compute 2017-08-23 00:47:09 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_242', 'cap_currency': 'EUR', 'gal': 746400.54306106362, 'date': '2017-08-14', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:47:09'}
+
+[info]:compute 2017-08-23 00:47:11 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_266', 'cap_currency': 'EUR', 'gal': 14744.412587046849, 'date': '2017-08-14', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:11'}
+
+[info]:compute 2017-08-23 00:47:13 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_220', 'cap_currency': 'EUR', 'gal': 122690.53226554338, 'date': '2017-08-14', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:13'}
+
+[info]:compute 2017-08-23 00:47:15 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_231', 'cap_currency': 'EUR', 'gal': 129023.60249430939, 'date': '2017-08-14', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:15'}
+
+[info]:compute 2017-08-23 00:47:17 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_196', 'cap_currency': 'EUR', 'gal': 187162.00414800254, 'date': '2017-08-14', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:17'}
+
+[info]:compute 2017-08-23 00:47:18 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8527, 'der_id': '5_283', 'cap_currency': 'EUR', 'gal': 192375.71106146381, 'date': '2017-08-14', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:47:18'}
+
+[info]:compute 2017-08-23 00:47:29 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_241', 'cap_currency': 'EUR', 'gal': 734448.23171587288, 'date': '2017-08-15', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:47:29'}
+
+[info]:compute 2017-08-23 00:47:31 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_265', 'cap_currency': 'EUR', 'gal': -3018.4885913817857, 'date': '2017-08-15', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:31'}
+
+[info]:compute 2017-08-23 00:47:33 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_219', 'cap_currency': 'EUR', 'gal': 156462.65718451701, 'date': '2017-08-15', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:33'}
+
+[info]:compute 2017-08-23 00:47:35 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_230', 'cap_currency': 'EUR', 'gal': 164942.58976416499, 'date': '2017-08-15', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:35'}
+
+[info]:compute 2017-08-23 00:47:37 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_195', 'cap_currency': 'EUR', 'gal': 179332.18534791886, 'date': '2017-08-15', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:37'}
+
+[info]:compute 2017-08-23 00:47:39 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8469, 'der_id': '5_282', 'cap_currency': 'EUR', 'gal': 277961.96178410522, 'date': '2017-08-15', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:47:39'}
+
+[info]:compute 2017-08-23 00:47:50 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_240', 'cap_currency': 'EUR', 'gal': 739944.96216617501, 'date': '2017-08-16', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:47:50'}
+
+[info]:compute 2017-08-23 00:47:52 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_264', 'cap_currency': 'EUR', 'gal': -9397.8420037751202, 'date': '2017-08-16', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:52'}
+
+[info]:compute 2017-08-23 00:47:53 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_218', 'cap_currency': 'EUR', 'gal': 193016.41658603415, 'date': '2017-08-16', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:53'}
+
+[info]:compute 2017-08-23 00:47:55 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_229', 'cap_currency': 'EUR', 'gal': 203628.11660173943, 'date': '2017-08-16', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:55'}
+
+[info]:compute 2017-08-23 00:47:58 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_194', 'cap_currency': 'EUR', 'gal': 182758.59588704768, 'date': '2017-08-16', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:47:58'}
+
+[info]:compute 2017-08-23 00:48:00 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8761, 'der_id': '5_281', 'cap_currency': 'EUR', 'gal': 366581.04835312848, 'date': '2017-08-16', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:00'}
+
+[info]:compute 2017-08-23 00:48:13 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_239', 'cap_currency': 'EUR', 'gal': 802981.80158894404, 'date': '2017-08-17', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:13'}
+
+[info]:compute 2017-08-23 00:48:16 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_263', 'cap_currency': 'EUR', 'gal': -5234.814645504106, 'date': '2017-08-17', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:16'}
+
+[info]:compute 2017-08-23 00:48:17 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_217', 'cap_currency': 'EUR', 'gal': 233904.66798410038, 'date': '2017-08-17', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:17'}
+
+[info]:compute 2017-08-23 00:48:19 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_228', 'cap_currency': 'EUR', 'gal': 246667.02759342027, 'date': '2017-08-17', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:19'}
+
+[info]:compute 2017-08-23 00:48:22 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_193', 'cap_currency': 'EUR', 'gal': 201366.30144623754, 'date': '2017-08-17', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:22'}
+
+[info]:compute 2017-08-23 00:48:23 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8154, 'der_id': '5_280', 'cap_currency': 'EUR', 'gal': 462038.56307300576, 'date': '2017-08-17', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:23'}
+
+[info]:compute 2017-08-23 00:48:35 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_238', 'cap_currency': 'EUR', 'gal': 821277.36207292043, 'date': '2017-08-18', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:35'}
+
+[info]:compute 2017-08-23 00:48:37 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_262', 'cap_currency': 'EUR', 'gal': -14524.8617370134, 'date': '2017-08-18', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:37'}
+
+[info]:compute 2017-08-23 00:48:39 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_216', 'cap_currency': 'EUR', 'gal': 268520.89302749623, 'date': '2017-08-18', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:39'}
+
+[info]:compute 2017-08-23 00:48:40 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_227', 'cap_currency': 'EUR', 'gal': 283385.10235119314, 'date': '2017-08-18', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:40'}
+
+[info]:compute 2017-08-23 00:48:43 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_192', 'cap_currency': 'EUR', 'gal': 196333.13551411519, 'date': '2017-08-18', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:43'}
+
+[info]:compute 2017-08-23 00:48:45 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_279', 'cap_currency': 'EUR', 'gal': 546998.11884986016, 'date': '2017-08-18', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:45'}
+
+[info]:compute 2017-08-23 00:48:55 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_237', 'cap_currency': 'EUR', 'gal': 848377.23423113883, 'date': '2017-08-19', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:48:55'}
+
+[info]:compute 2017-08-23 00:48:57 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_261', 'cap_currency': 'EUR', 'gal': -15625.447946827828, 'date': '2017-08-19', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:57'}
+
+[info]:compute 2017-08-23 00:48:59 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_215', 'cap_currency': 'EUR', 'gal': 306849.12604736199, 'date': '2017-08-19', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:48:59'}
+
+[info]:compute 2017-08-23 00:49:01 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_226', 'cap_currency': 'EUR', 'gal': 323836.94055496471, 'date': '2017-08-19', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:01'}
+
+[info]:compute 2017-08-23 00:49:04 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_191', 'cap_currency': 'EUR', 'gal': 208346.40598029664, 'date': '2017-08-19', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:04'}
+
+[info]:compute 2017-08-23 00:49:06 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_278', 'cap_currency': 'EUR', 'gal': 638110.32282768295, 'date': '2017-08-19', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:49:06'}
+
+[info]:compute 2017-08-23 00:49:15 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_236', 'cap_currency': 'EUR', 'gal': 893210.31896286167, 'date': '2017-08-20', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:49:15'}
+
+[info]:compute 2017-08-23 00:49:17 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_260', 'cap_currency': 'EUR', 'gal': -16742.06052824188, 'date': '2017-08-20', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:17'}
+
+[info]:compute 2017-08-23 00:49:19 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_214', 'cap_currency': 'EUR', 'gal': 345169.62666782591, 'date': '2017-08-20', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:19'}
+
+[info]:compute 2017-08-23 00:49:21 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_225', 'cap_currency': 'EUR', 'gal': 364281.08192694106, 'date': '2017-08-20', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:21'}
+
+[info]:compute 2017-08-23 00:49:23 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_190', 'cap_currency': 'EUR', 'gal': 208973.31290880495, 'date': '2017-08-20', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:23'}
+
+[info]:compute 2017-08-23 00:49:25 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8439, 'der_id': '5_277', 'cap_currency': 'EUR', 'gal': 729205.87697344716, 'date': '2017-08-20', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:49:25'}
+
+[info]:compute 2017-08-23 00:49:37 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_235', 'cap_currency': 'EUR', 'gal': 1019245.5694437363, 'date': '2017-08-21', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:49:37'}
+
+[info]:compute 2017-08-23 00:49:39 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_259', 'cap_currency': 'EUR', 'gal': 18652.954539846975, 'date': '2017-08-21', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:39'}
+
+[info]:compute 2017-08-23 00:49:41 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_213', 'cap_currency': 'EUR', 'gal': 404949.35118778941, 'date': '2017-08-21', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:41'}
+
+[info]:compute 2017-08-23 00:49:43 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_224', 'cap_currency': 'EUR', 'gal': 426085.73871682357, 'date': '2017-08-21', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:43'}
+
+[info]:compute 2017-08-23 00:49:45 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_189', 'cap_currency': 'EUR', 'gal': 258165.40460217185, 'date': '2017-08-21', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:49:45'}
+
+[info]:compute 2017-08-23 00:49:47 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.869, 'der_id': '5_276', 'cap_currency': 'EUR', 'gal': 858322.69798125362, 'date': '2017-08-21', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:49:47'}
+
+[info]:compute 2017-08-23 00:50:00 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_234', 'cap_currency': 'EUR', 'gal': 1039795.7931254543, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:50:00'}
+
+[info]:compute 2017-08-23 00:50:02 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_258', 'cap_currency': 'EUR', 'gal': 16721.775882377948, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:50:02'}
+
+[info]:compute 2017-08-23 00:50:04 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_212', 'cap_currency': 'EUR', 'gal': 443692.01055730536, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:50:04'}
+
+[info]:compute 2017-08-23 00:50:06 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_223', 'cap_currency': 'EUR', 'gal': 466950.09698528145, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:50:06'}
+
+[info]:compute 2017-08-23 00:50:09 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_188', 'cap_currency': 'EUR', 'gal': 251422.31385867528, 'date': '2017-08-22', 'cap_amount': 500000.0, 'data_date': '2017-08-23 00:50:09'}
+
+[info]:compute 2017-08-23 00:50:12 targetforwards cumputeLost {'com_code': 'R200', 'exrate': 7.8328, 'der_id': '5_275', 'cap_currency': 'EUR', 'gal': 950553.47253235092, 'date': '2017-08-22', 'cap_amount': 1000000.0, 'data_date': '2017-08-23 00:50:12'}
+
